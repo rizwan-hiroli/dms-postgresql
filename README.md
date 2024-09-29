@@ -1,1 +1,4 @@
-# dms-postgresql
+- Clone repo.
+- Setup database and add your credentials.
+- Update composer
+- Check the local link.
